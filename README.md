@@ -2,6 +2,6 @@
 This is an example on how to use react navigation to create a bottom tab bar and a nested drawer on the header
 
 Preview:
- <img src="https://github.com/YanNerio/react-drawer-tabs-navigation/blob/master/screenshots/example.gif" width="100" height="100">
+ <img src="https://github.com/YanNerio/react-drawer-tabs-navigation/blob/master/screenshots/example.gif" width="50%">
 
 
