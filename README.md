@@ -3,5 +3,5 @@ This is an example on how to use react navigation to create a bottom tab bar and
 
 Preview:
 
-![Example](https://github.com/YanNerio/react-drawer-tabs-navigation/blob/master/screenshots/example.gif){:height="50%" width="50%"}
+![Example](https://github.com/YanNerio/react-drawer-tabs-navigation/blob/master/screenshots/example.gif?s=200)
 
